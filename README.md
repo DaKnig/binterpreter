@@ -1,5 +1,5 @@
 # binterpreter
-A brainfuck interpreter, written in C. Is a brainduck.
+A brainfuck interpreter, written in C. Is part of the brainduck toolkit.
 
 Uses the standard brainduck specs.
 
